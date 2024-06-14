@@ -2,11 +2,5 @@
   command = "npm run build"
   publish = "out"
 
-[build.environment]
-  NODE_ENV = "production"
-
-[build.cache]
-  paths = [
-    "node_modules/**",
-    ".next/cache/**"
-  ]
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
