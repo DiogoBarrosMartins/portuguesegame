@@ -1,0 +1,384 @@
+Saudações Básicas
+Olá - Hello 👋
+Adeus - Goodbye 👋
+Sim - Yes 👍
+Não - No 👎
+
+Números
+Um - One 1️⃣
+Dois - Two 2️⃣
+Três - Three 3️⃣
+Quatro - Four 4️⃣
+Cinco - Five 5️⃣
+Seis - Six 6️⃣
+Sete - Seven 7️⃣
+Oito - Eight 8️⃣
+Nove - Nine 9️⃣
+Dez - Ten 🔟
+
+Cores
+Vermelho - Red 🔴
+Azul - Blue 🔵
+Verde - Green 🟢
+Amarelo - Yellow 🟡
+Preto - Black ⚫
+Branco - White ⚪
+
+Membros da Família
+Pai - Father 👨
+Mãe - Mother 👩
+Irmão - Brother 👦
+Irmã - Sister 👧
+Filho - Son 👦
+Filha - Daughter 👧
+
+Frutas e Legumes
+Maçã - Apple 🍎
+Banana - Banana 🍌
+Laranja - Orange 🍊
+Morango - Strawberry 🍓
+Tomate - Tomato 🍅
+Cenoura - Carrot 🥕
+Batata - Potato 🥔
+Alface - Lettuce 🥬
+
+Cores
+Roxo - Purple 🟣
+Laranja - Orange 🟠
+Castanho - Brown 🟤
+Turquesa - Turquoise 🔷
+
+Animais
+Cão - Dog 🐶
+Gato - Cat 🐱
+Pássaro - Bird 🐦
+Peixe - Fish 🐟
+Cavalo - Horse 🐴
+Vaca - Cow 🐮
+Ovelha - Sheep 🐑
+Cabra - Goat 🐐
+
+Partes do Corpo
+Cabeça - Head 😃
+Braço - Arm 💪
+Mão - Hand 🖐️
+Perna - Leg 🦵
+Pé - Foot 🦶
+Olho - Eye 👁️
+Orelha - Ear 👂
+Boca - Mouth 👄
+Nariz - Nose 👃
+
+Verbos Adicionais
+Correr - To run 🏃‍♂️
+Ler - To read 📖
+Escrever - To write ✍️
+Abrir - To open 🚪
+Fechar - To close 🔒
+Jogar - To play 🏀
+Trabalhar - To work 🧑‍💻
+Estudar - To study 📚
+
+Adjetivos Comuns
+Grande - Big 🏢
+Pequeno - Small 🏠
+Rápido - Fast 🚀
+Lento - Slow 🐢
+Feliz - Happy 😊
+Triste - Sad 😢
+Forte - Strong 💪
+Fraco - Weak 🦵
+
+Direções
+Direita - Right ➡️
+Esquerda - Left ⬅️
+Frente - Straight ⬆️
+Atrás - Back ⬇️
+Perto - Near 📍
+Longe - Far 🗺️
+
+Tempo
+Agora - Now ⏰
+Hoje - Today 📅
+Amanhã - Tomorrow 🗓️
+Ontem - Yesterday 🕰️
+Tarde - Afternoon 🌇
+Noite - Night 🌙
+Dia - Day 🌞
+
+Objetos Comuns
+Casa - House 🏠
+Carro - Car 🚗
+Cadeira - Chair 💺
+Janela - Window 🪟
+
+Instrumentos Musicais
+Piano - Piano 🎹
+Guitarra - Guitar 🎸
+Violino - Violin 🎻
+Bateria - Drums 🥁
+Flauta - Flute 🎶
+Saxofone - Saxophone 🎷
+Trompete - Trumpet 🎺
+Acordeão - Accordion 🎼
+Harpa - Harp 🎵
+
+Desportos
+Futebol - Football ⚽
+Basquetebol - Basketball 🏀
+Ténis - Tennis 🎾
+Natação - Swimming 🏊‍♂️
+Atletismo - Athletics 🏃
+Ciclismo - Cycling 🚴
+Voleibol - Volleyball 🏐
+Golfe - Golf ⛳
+
+Ferramentas
+Martelo - Hammer 🔨
+Alicate - Pliers 🔩
+Serra - Saw 🪚
+Berbequim - Drill 🛠️
+Chave inglesa - Wrench 🔧
+Escada - Ladder 🪜
+Parafuso - Screw 🔩
+
+Meios de Comunicação
+Jornal - Newspaper 📰
+Revista - Magazine 📖
+Rádio - Radio 📻
+Internet - Internet 🌐
+Carta - Letter 📬
+E-mail - E-mail 📧
+
+Festas e Celebrações
+Natal - Christmas 🎄
+Páscoa - Easter 🐰
+Carnaval - Carnival 🎭
+Férias - Holidays 🌴
+
+Formas Geométricas
+Círculo - Circle ⚪
+Quadrado - Square ⬛
+Oval - Oval 🔵
+Cubo - Cube 🧊
+Esfera - Sphere ⚽
+
+Tecnologia
+Tablet - Tablet 📱
+
+Tipos de Bebidas
+Sumo - Juice 🍹
+Chá - Tea 🍵
+Cerveja - Beer 🍺
+Vinho - Wine 🍷
+
+Animais Selvagens
+Leão - Lion 🦁
+Tigre - Tiger 🐯
+Urso - Bear 🐻
+Cabra - Goat 🐐
+
+Frutas Tropicais
+Kiwi - Kiwi 🥝
+
+Materiais Escolares
+Lápis - Pencil ✏️
+Afia - Sharpener 🔪
+Régua - Ruler 📏
+Cola - Glue 🪣
+
+Meses
+Janeiro - January ❄️
+Fevereiro - February 💕
+Março - March 🌷
+Abril - April 🌧️
+Maio - May 🌸
+Junho - June ☀️
+Julho - July 🎆
+Agosto - August ☀️
+Setembro - September 🍂
+Outubro - October 🎃
+Novembro - November 🍁
+Dezembro - December 🎄
+
+Comidas e Bebidas
+Água - Water 💧
+Comida - Food 🍲
+Pão - Bread 🍞
+Leite - Milk 🥛
+Café - Coffee ☕
+Chá - Tea 🍵
+Fruta - Fruit 🍎
+Carne - Meat 🍖
+Peixe - Fish 🐟
+Arroz - Rice 🍚
+
+Verbos Comuns
+Ser - To be (permanent state) 🧍‍♂️
+Estar - To be (temporary state) 🧍‍♀️
+Ter - To have ✋
+Fazer - To do/make 🛠️
+Ir - To go 🚶‍♂️
+Ver - To see 👀
+Comer - To eat 🍽️
+Beber - To drink 🍹
+Dormir - To sleep 😴
+Falar - To speak 🗣️
+
+Pronomes
+Eu - I 👤
+Tu - You (singular, informal) 👤
+Você - You (singular, formal) 👤
+Ele - He 👨
+Ela - She 👩
+Nós - We 👥
+Vós - You (plural, formal) 👥
+Vocês - You (plural) 👥
+Eles - They (masculine or mixed group) 👨‍👨‍👦
+Elas - They (feminine) 👩‍👩‍👧
+
+Utensílios Domésticos
+Frigorífico - Refrigerator 🧊
+Micro-ondas - Microwave 🍲
+Fogão - Stove 🔥
+Telefone - Telephone ☎️
+
+Móveis
+Sofá - Sofa 🛋️
+Mesa - Table 🪑
+Cadeira - Chair 💺
+Cama - Bed 🛏️
+Armário - Wardrobe 🚪
+Estante - Bookshelf 📚
+Tapete - Rug 🧶
+Cortina - Curtain 🪟
+
+Conectores e Preposições
+e - and
+ou - or
+mas - but
+porque - because
+durante - during
+contra - against
+entre - between
+através - through
+
+Objetos de Uso Diário
+Relógio - Watch ⌚
+Carteira - Wallet 👛
+Chave - Key 🔑
+Óculos - Glasses 👓
+Computador - Computer 💻
+Televisão - Television 📺
+Telemóvel - Mobile phone 📱
+Livro - Book 📖
+Caneta - Pen 🖊️
+Caderno - Notebook 📒
+
+Roupas e Acessórios
+Camisola - Sweater 👕
+Calças - Pants 👖
+Vestido - Dress 👗
+Sapatos - Shoes 👞
+Chapéu - Hat 🎩
+Luvas - Gloves 🧤
+Cachecol - Scarf 🧣
+Casaco - Coat 🧥
+T-shirt - T-shirt 👕
+Calções - Shorts 🩳
+Sandálias - Sandals 🩴
+
+Profissões
+Professor/a - Teacher 👩‍🏫
+Médico - Doctor 👩‍⚕️
+Enfermeiro - Nurse 👨‍⚕️
+Engenheiro - Engineer 👷
+Advogado - Lawyer 👩‍⚖️
+Polícia - Police officer 👮
+Motorista - Driver 🚗
+Cozinheiro - Cook 👩‍🍳
+Bombeiro - Firefighter 👨‍🚒
+Jardineiro - Gardener 👩‍🌾
+
+Lugares no Campo
+Floresta - Forest 🌳
+Lago - Lake 🏞️
+Montanha - Mountain ⛰️
+Rio - River 🏞️
+Praia - Beach 🏖️
+Campo - Field 🌾
+Deserto - Desert 🏜️
+Ilha - Island 🏝️
+Vila - Village 🏘️
+
+Descrição de Sentimentos
+Feliz - Happy 😊
+Triste - Sad 😢
+Zangado - Angry 😠
+Surpreso - Surprised 😲
+Assustado - Scared 😱
+Calmo - Calm 😌
+Nervoso - Nervous 😬
+Cansado - Tired 😴
+Confuso - Confused 🤔
+Entediado - Bored 😐
+
+Preposições de Lugar
+Em cima - On top of ⬆️
+Debaixo - Underneath ⬇️
+Ao lado - Next to ⬅️➡️
+Em frente - In front of ⬆️
+Atrás - Behind ⬇️
+Entre - Between ⬅️➡️
+Perto - Near 📍
+Longe - Far 🗺️
+Dentro - Inside 🏠
+Fora - Outside 🏞️
+
+Transportes
+Carro - Car 🚗
+Autocarro - Bus 🚌
+Comboio - Train 🚆
+Metro - Subway 🚇
+Avião - Airplane ✈️
+Barco - Boat ⛵
+Bicicleta - Bicycle 🚲
+Mota - Motorcycle 🏍️
+
+Lugares na Cidade
+Hospital - Hospital 🏥
+Escola - School 🏫
+Supermercado - Supermarket 🛒
+Farmácia - Pharmacy 💊
+Biblioteca - Library 📚
+Praça - Square 🏛️
+Parque - Park 🌳
+Restaurante - Restaurant 🍴
+
+Atividades de Lazer
+Nadar - To swim 🏊‍♂️
+Caminhar - To walk 🚶‍♂️
+Correr - To run 🏃‍♂️
+Viajar - To travel ✈️
+Pintar - To paint 🎨
+Cozinhar - To cook 🍳
+Ler - To read 📖
+Dançar - To dance 💃
+
+Clima
+Sol - Sun 🌞
+Chuva - Rain 🌧️
+Nublado - Cloudy ☁️
+Vento - Wind 🌬️
+Neve - Snow ❄️
+Quente - Hot 🔥
+Frio - Cold ❄️
+Tempestade - Storm ⛈️
+
+Adjetivos para Descrever o Clima
+Ensolarado - Sunny 🌞
+Chuvoso - Rainy 🌧️
+Ventoso - Windy 🌬️
+Nevoso - Snowy ❄️
+Húmido - Humid 💧
+Seco - Dry 🌵
