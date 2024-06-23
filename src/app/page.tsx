@@ -1,7 +1,9 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import { Check, Star } from "lucide-react";
 import Phone from "@/components/Phone";
-
+import Link from "next/link";
+import { buttonVariants } from "../components/ui/button";
+import { ArrowRightIcon } from "lucide-react";
 export default function Home() {
   return (
   <div className="bg-slate-50" >
@@ -79,13 +81,19 @@ export default function Home() {
                   <Star className="h-4 w-4 text-green-600 fill-green-600"/>
                 </div>
 
-                <p>
-                   <span className="font-semibold"> 5 </span> 
-                icons left to this text 
-                </p> 
+                
               </div>
-            </div>
-          </div>
+             
+            </div><Link 
+                                        href='/game' 
+                                        className={buttonVariants({
+                                        size: 'sm', 
+                                        className:' sm:flex items-center gap-1',
+                                    })}>
+                                    Play the game
+                                    <ArrowRightIcon className="ml-1.5 h-15 w-5"/> 
+                                    </Link>
+          </div> 
         </div>
         
         <div className="col-span-full lg:col-span-1 w-full flex justify-center px-8 sm:px-16 md:px-0 mt-32 lg:mx-0 lg:mt-20 h-fit">
@@ -99,9 +107,9 @@ export default function Home() {
               className="absolute w-20 -left-6 -bottom-6 select-none"
             />
             <Phone className="w-64" imgSrc="/portugal.png"/>
-            
-          </div>
-        </div>
+      
+          </div>    
+        </div> 
       </MaxWidthWrapper>
     </section>
   </div>

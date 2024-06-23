@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import MaxWidthWrapper from "./MaxWidthWrapper";
 
 const EmojiGame = ({ emoji, onCorrect }: { emoji: { emoji: string; word: string; input: string }, onCorrect: () => void }) => {
   const [inputValue, setInputValue] = useState('');
@@ -24,20 +25,38 @@ const EmojiGame = ({ emoji, onCorrect }: { emoji: { emoji: string; word: string;
   };
 
   return (
-    <div style={{ textAlign: 'center', marginTop: '8%' }}>
-      <div style={{ fontSize: '100px' }}>{emoji.emoji}</div>
-      <div style={{ marginTop: '20px' }}>
+    <MaxWidthWrapper className=''>
+    <div className="mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-center">
+      <div style={{ fontSize: '100px', alignItems:"center" }}>
+        {emoji.emoji}
+      </div>
+      <div className="mt-5 w-full lg:w-auto">
         <input
           type="text"
           value={inputValue}
           onChange={handleInputChange}
-          style={{ fontSize: '24px', textAlign: 'center', border: '2px solid black' }}
+          className="w-full lg:w-auto text-center border-2 border-black p-2 text-2xl"
         />
       </div>
-      {message && <div style={{ marginTop: '20px', fontSize: '24px', color: 'green' }}>{message}</div>}
-      <button onClick={handleShowAnswer} style={{ marginTop: '20px', fontSize: '24px' }}>Reveal Answer</button>
-      {showAnswer && <div style={{ marginTop: '20px', fontSize: '24px', color: 'red' }}>{emoji.word}</div>}
+      {message && (
+        <div className="mt-5 text-2xl text-green-500">
+          {message}
+        </div>
+      )}
+      <button
+        onClick={handleShowAnswer}
+        className="mt-5 text-2xl  text-black py-2 px-4 rounded hover:bg-green-300"
+      >
+        Reveal Answer
+      </button>
+      {showAnswer && (
+        <div className="mt-5 text-2xl text-red-500">
+          {emoji.word}
+        </div>
+      )}
     </div>
+  </MaxWidthWrapper>
+  
   );
 };
 

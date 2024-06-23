@@ -57,7 +57,7 @@ const Navbar = async () => {
                                         href='/game' 
                                         className={buttonVariants({
                                         size: 'sm', 
-                                        className:'hidden sm:flex items-center gap-1',
+                                        className:' sm:flex items-center gap-1',
                                     })}>
                                     Play PortugalGame!
                                     <ArrowRightIcon className="ml-1.5 h-5 w-5"/> 
