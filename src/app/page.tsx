@@ -88,7 +88,7 @@ export default function Home() {
                                         href='/game' 
                                         className={buttonVariants({
                                         size: 'sm', 
-                                        className:' sm:flex items-center gap-1 mt-5',
+                                        className:'items-center gap-1 mt-5',
                                     })}>
                                     Play the game
                                     <ArrowRightIcon className="ml-1.5 h-15 w-5"/> 
