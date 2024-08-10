@@ -1,7 +1,8 @@
 # PortugalGame
 
 ## Introduction
-PortugalGame is a fun and interactive project created to help Savva, a 12-year-old, learn Portuguese. The goal of this project is to make language learning engaging through the use of games and interactive content.
+PortugalGame is a fun and interactive project created to help Savva, a 14-year-old, learn Portuguese. The goal of this project is to make language learning engaging through the use of games and interactive content.
+We host an emoji API and then consume it on our game.
 
 ## Libraries Used
 This project uses the following libraries:

@@ -1,6 +1,6 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import { Check, Star } from "lucide-react";
-import Phone from "@/components/Phone";
+
 import Link from "next/link";
 import { buttonVariants } from "../components/ui/button";
 import { ArrowRightIcon } from "lucide-react";
@@ -14,35 +14,30 @@ export default function Home() {
             <div className="absolute w-28 left-0 -top-20 hidden lg:block"> <div className='absolute inset-x-0 bottom-0 z[-100] bg-gradient-to-t via-slate-50/01 from-slate-50 h-6' />
               <img src="users/user.png" className="w-full"/>
             </div>
-             
-            <h1 className='relative w-fit tracking-tight text-balance mt-16 font-bold !leading-tight text-gray-900 text-5xl md:text-6xl lg:text-7xl'>
-                Learn {' '}
-                <span className='bg-green-600 px-2 text-white'>Portuguese</span>{' '}
-                with this <span className='bg-red-600 px-2 text-yellow-300'>awesome</span>{' '}
-                game!
-              </h1>
-              <p className='mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap'>
-                This rogue-like {' '}
-                <span className='font-semibold'>dungeon crawler</span> card game is so fun you will support the Portuguese national team.
-              </p>
+            <h1 className="relative w-fit tracking-tight text-balance mt-16 font-bold !leading-tight text-gray-900 text-5xl md:text-6xl lg:text-7xl">
+  Master the <span className="bg-green-600 px-2 text-white">Portuguese</span> language
+  with this <span className="bg-red-600 px-2 text-yellow-300">exciting</span> game!
+</h1>
+<p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
+  Immerse yourself in this innovative <span className="font-semibold">rogue-like dungeon crawler</span> card game, and experience a new way to support the Portuguese national team while learning the language.
+</p>
 
-
-      <ul className="mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start">
-        <div className="space-y-2">
-          <li className="flex gap-1.5 items-center text-left">
-           <Check className="h-5 w-5 shrink-0 text-green-600"/>
-            Dubitable Quality First-time being tested Material 
-         </li>
-          <li className="flex gap-1.5 items-center text-left">
-            <Check className="h-5 w-5 shrink-0 text-green-600"/>
-            5 minutes guarantee  
-          </li>
-          <li className="flex gap-1.5 items-center text-left">
-            <Check className="h-5 w-5 shrink-0 text-green-600"/>
-            Questionable Effort Equals Quality Product (?)  
-          </li>
-        </div>
-     </ul>
+<ul className="mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start">
+  <div className="space-y-2">
+    <li className="flex gap-1.5 items-center text-left">
+      <Check className="h-5 w-5 shrink-0 text-green-600"/>
+      First-time testing with top-notch quality materials
+    </li>
+    <li className="flex gap-1.5 items-center text-left">
+      <Check className="h-5 w-5 shrink-0 text-green-600"/>
+      Guaranteed engagement in just 5 minutes
+    </li>
+    <li className="flex gap-1.5 items-center text-left">
+      <Check className="h-5 w-5 shrink-0 text-green-600"/>
+      Combining creativity with quality to deliver excellence
+    </li>
+  </div>
+</ul>
 
     <div className="mt-12 flex flex-col sm:flex-row items-center sm:items-start gap-5">
       <div className="flex -space-x-4">
