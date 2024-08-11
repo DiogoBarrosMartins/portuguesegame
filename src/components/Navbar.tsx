@@ -17,7 +17,7 @@ const Navbar = async () => {
             <MaxWidthWrapper>
                 <div className="flex h-14 items-center justify-between border-b border-zinc-200">
                     <Link href='/' className="flex z-40 font-semibold">
-                        <span className="text-green-600"> Portugal</span><span className="text-red-600">Game</span>
+                        <span className="text-green-600"> Diogo</span><span className="text-red-600">Lingo</span>
                     </Link>
 
                     <div className="h-full flex items-center space-x-4">
@@ -59,7 +59,7 @@ const Navbar = async () => {
                                         size: 'sm', 
                                         className:' sm:flex items-center gap-1',
                                     })}>
-                                    Play PortugalGame!
+                                    Play!
                                     <ArrowRightIcon className="ml-1.5 h-5 w-5"/> 
                                     </Link>      
                         </>
