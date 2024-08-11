@@ -45,3 +45,19 @@ export function checkGuess(guess: string, targetWord: string): { letter: string,
 
     return feedback;
 }
+
+export const checkWordExists = async (word: string): Promise<boolean> => {
+    try {
+        const response = await fetch(`https://api.dicionario-aberto.net/word/${word}`);
+        if (response.ok) {
+            const data = await response.json();
+            console.log('API Response:', data); // Log the response to debug
+            return Array.isArray(data) && data.length > 0;
+        } else {
+            console.error('API responded with an error:', response.statusText);
+        }
+    } catch (error) {
+        console.error('Error checking word:', error);
+    }
+    return false;
+};

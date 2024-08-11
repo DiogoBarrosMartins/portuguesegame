@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { getRandomWord, checkGuess } from './util';
+import { checkWordExists } from './util'; // Import the API utility
 
-// QWERTY keyboard layout divided into rows
 const qwertyRows = [
     ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'backspace'],
     ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'ç', 'enter'],
@@ -23,6 +23,10 @@ const Game: React.FC = () => {
     useEffect(() => {
         const handlePhysicalKeyPress = (event: KeyboardEvent) => {
             const key = event.key.toLowerCase();
+
+            // Prevent default behavior
+            event.preventDefault();
+
             if (key === 'enter') {
                 handleGuess();
             } else if (key === 'backspace') {
@@ -38,9 +42,15 @@ const Game: React.FC = () => {
         };
     }, [currentGuess, keyboard]);
 
-    const handleGuess = () => {
+    const handleGuess = async () => {
         if (currentGuess.length !== 5) {
             alert("A palavra deve ter 5 letras!");
+            return;
+        }
+
+        const wordExists = await checkWordExists(currentGuess);
+        if (!wordExists) {
+            alert("Palavra inválida! Tente novamente.");
             return;
         }
 
