@@ -3,7 +3,11 @@
 import React, { useState } from 'react';
 import { getRandomWord, checkGuess } from './util';
 
-const alphabet = 'qwertyuiopasdfghjklçzxcvbnm'.split('');
+const alphabet = [
+    'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p',
+    'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
+    'z', 'x', 'c', 'v', 'b', 'n', 'm'
+];
 
 const Game: React.FC = () => {
     const [targetWord, setTargetWord] = useState<string>(getRandomWord());
