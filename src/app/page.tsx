@@ -19,18 +19,18 @@ export default function Home() {
   with this <span className="bg-red-600 px-2 text-yellow-300">exciting</span> game!
 </h1>
 <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
-  Immerse yourself in this innovative <span className="font-semibold">rogue-like dungeon crawler</span> card game, and experience a new way to support the Portuguese national team while learning the language.
+  Immerse yourself in this innovative <span className="font-semibold">word-like word crawler</span> word game, and experience a new way to learn Portuguese!
 </p>
 
 <ul className="mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start">
   <div className="space-y-2">
     <li className="flex gap-1.5 items-center text-left">
       <Check className="h-5 w-5 shrink-0 text-green-600"/>
-      First-time testing with top-notch quality materials
+      Top-notch emojis! hehe
     </li>
     <li className="flex gap-1.5 items-center text-left">
       <Check className="h-5 w-5 shrink-0 text-green-600"/>
-      Guaranteed engagement in just 5 minutes
+      Guaranteed engagement in just 5 seconds.
     </li>
     <li className="flex gap-1.5 items-center text-left">
       <Check className="h-5 w-5 shrink-0 text-green-600"/>
