@@ -1,22 +1,100 @@
 // src/app/wordl/util.ts
 
 export const words = [
-    "amigo", // friend
-    "carro", // car
-    "porta", // door
-    "casar",  // house
-    "falar", // to speak
-    "fruta", // fruit
-    "mundo", // world
-    "pazes",   // peace
-    "lugar", // place
-    "nuvem", // cloud
-    "verde", // green
-    "cinco", // five
-    "livro", // book
-    "papel", // paper
-    "beijo", 
+    "amigo",
+    "carro",
+    "porta",
+    "casar",
+    "falar",
+    "fruta",
+    "mundo",
+    "pazes",
+    "lugar",
+    "nuvem",
+    "verde",
+    "cinco",
+    "livro",
+    "papel",
+    "beijo",
+    "couro",
+    "prato",
+    "noite",
+    "fraco",
+    "peixe",
+    "campo",
+    "filho",
+    "vidro",
+    "limpo",
+    "areia",
+    "raiva",
+    "gosto",
+    "carta",
+    "monte",
+    "bravo",
+    "trevo",
+    "grito",
+    "calma",
+    "leite",
+    "tigre",
+    "tempo",
+    "barco",
+    "sonho",
+    "vento",
+    "casal",
+    "jovem",
+    "trigo",
+    "pedra",
+    "doido",
+    "calor",
+    "corpo",
+    "roupa",
+    "ponto",
+    "gente",
+    "primo",
+    "campo",
+    "trama",
+    "dente",
+    "banco",
+    "fruta",
+    "custo",
+    "salto",
+    "galho",
+    "sinal",
+    "vazio",
+    "praia",
+    "vapor",
+    "circo",
+    "tenso",
+    "moral",
+    "abuso",
+    "preto",
+    "letra",
+    "firme",
+    "garfo",
+    "trago",
+    "medir",
+    "cerro",
+    "cegas",
+    "polvo",
+    "virar",
+    "lindo",
+    "exato",
+    "nariz",
+    "bater",
+    "lento",
+    "astro",
+    "moeda",
+    "terno",
+    "burro",
+    "brisa",
+    "ficar",
+    "museu",
+    "salva",
+    "plano",
+    "borda"
 ];
+
+
 export function getRandomWord(): string {
     return words[Math.floor(Math.random() * words.length)];
 }
