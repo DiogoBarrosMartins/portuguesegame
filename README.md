@@ -20,4 +20,4 @@ The project was created to provide a playful and effective way for Savva to lear
 - **Section Titles**: Displays the category of each word to provide context and improve vocabulary retention.
 
 ## How to Run the Project
-1. npm run dev
+1. npm start
