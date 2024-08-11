@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import Game from '../api/wordl/game';
+import Game from '../api/diogl/game';
 
 const WordlPage: React.FC = () => {
     return (

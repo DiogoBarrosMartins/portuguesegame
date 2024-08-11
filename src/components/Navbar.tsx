@@ -59,9 +59,18 @@ const Navbar = async () => {
                                         size: 'sm', 
                                         className:' sm:flex items-center gap-1',
                                     })}>
-                                    Play!
+                                    Play EmojiGame!
                                     <ArrowRightIcon className="ml-1.5 h-5 w-5"/> 
                                     </Link>      
+                                    <Link 
+                                    href='/diogl' 
+                                    className={buttonVariants({
+                                        size: 'sm', 
+                                        className:' sm:flex items-center gap-1',
+                                    })}>
+                                    Play Diogl!
+                                    <ArrowRightIcon className="ml-1.5 h-5 w-5"/> 
+                                </Link>      
                         </>
                         ) }
                     </div>

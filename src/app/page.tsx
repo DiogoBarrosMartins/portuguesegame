@@ -88,7 +88,10 @@ export default function Home() {
                                     Play the game
                                     <ArrowRightIcon className="ml-1.5 h-15 w-5"/> 
                                     </Link>
+                                    
+                                    
           </div> 
+          
         </div>
         
     
