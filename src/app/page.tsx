@@ -85,12 +85,23 @@ export default function Home() {
                                         size: 'lg', 
                                         className:'items-center gap-1 mt-5',
                                     })}>
-                                    Play the game
+                                    Play the emoji game
                                     <ArrowRightIcon className="ml-1.5 h-15 w-5"/> 
                                     </Link>
                                     
                                     
           </div> 
+          <Link 
+                                        href='/diogl' 
+                                        className={buttonVariants({
+                                        size: 'lg', 
+                                        className:'items-center gap-1 mt-5',
+                                    })}>
+                                    Play Diogl
+                                    <ArrowRightIcon className="ml-1.5 h-15 w-5"/> 
+                                    </Link>
+                                    
+                                    
           
         </div>
         
